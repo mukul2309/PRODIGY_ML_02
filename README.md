@@ -11,8 +11,6 @@ The dataset contains customer purchase history, including features such as:
 - **Average Basket Size**: Average value of each purchase
 - **Other relevant attributes**
 
-> Note: Ensure data privacy when handling sensitive customer information.
-
 ## Key Steps in the Project
 
 1. **Data Preprocessing**
